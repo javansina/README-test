@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-## Usage
+### Usage
 
 ```python
 import foobar
